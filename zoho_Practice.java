@@ -120,7 +120,7 @@ public class zoho_Practice {
 		WebElement cancelBtn = driver.findElement(By.xpath("//lyte-yield[text()='Cancel']"));
 		cancelBtn.click();
 
-		driver.quit();
+	
 	}
 
 }
